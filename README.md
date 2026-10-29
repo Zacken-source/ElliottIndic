@@ -1,0 +1,2 @@
+# ElliottIndic
+Elliott Wave Indicator
